@@ -3,6 +3,7 @@ import NavbarBanner from '../components/NavbarBanner'
 import Projects from '../components/Projects'
 
 import Map from '../components/Map'
+import Contact from '../components/Contact'
 
 
 export default function Home() {
@@ -11,6 +12,8 @@ export default function Home() {
       <NavbarBanner />
 
       <Projects />
+
+      <Contact />
 
       <Map />
 
