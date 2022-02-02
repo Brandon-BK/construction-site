@@ -8,7 +8,7 @@ const NavbarBanner = () => {
   return(
       <Box style={{width:'100%'}}>
 
-            <Box sx={{ flexGrow: 1 }} style={{position:'fixed',top:0,width:'100%'}}>
+            <Box sx={{ flexGrow: 1 }} style={{position:'fixed',top:0,width:'100%',zIndex:'10'}}>
                 <AppBar position="static" style={{background:'white',color:'black'}}>
                     <Toolbar>
                     
