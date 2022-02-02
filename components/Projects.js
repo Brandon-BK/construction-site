@@ -5,7 +5,6 @@ const Projects = () => {
         fontFamily: "Verdana,sans-serif",
         fontSize: "15px",
         lineHeight: "1.5",
-        border: "1px black solid",
         padding: "8px 16px",
       }}
     >
