@@ -5,7 +5,7 @@ const Contact = () => {
         fontFamily: "Verdana,sans-serif",
         fontSize: "15px",
         lineHeight: "1.5",
-        padding: "8px 16px",
+        padding: "30px",
       }}
     >
       <div
